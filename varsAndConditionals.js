@@ -67,3 +67,5 @@ for(let i = 0; i < 5; i++)
         console.log(`Jon Snow's Health: ${jonSnowHealth}`);
     }
 }
+
+console.log(`Made some changes`)
